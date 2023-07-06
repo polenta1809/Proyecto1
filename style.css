@@ -1,0 +1,172 @@
+a {
+  
+  text-decoration: none;
+  color: white;
+  
+}
+
+
+.opciones {
+
+    display: inline-block;
+    position: relative;
+
+}
+label {
+  color: #000;
+}
+.option-bar .retos {
+
+  color: #000;
+}
+.option-bar .diccionario {
+
+  color: #000;
+
+}
+.option-bar {
+
+    display: none;
+    position: absolute;
+    width: 15rem;
+    overflow: auto;
+    box-shadow: 0px 8px 16px 0px rgba(107, 87, 87, 0.2);
+    overflow: column;
+    color: #000;
+}
+.opciones:hover .option-bar {
+
+    display: block;
+    background: rgb(256, 200, 200);
+
+}
+.boton {
+ 
+  border: none;
+  background: none;
+  
+ }
+.botonl {
+ 
+  border: none;
+  background: none;
+  
+ }
+.enviar {
+
+  border: 1px;
+  color: black;
+  border-radius: 20px;
+  font-size: 16px;
+
+}
+header button {
+  
+  border: 1px;
+  color: black;
+  border-radius: 20px;
+  font-size: 16px;
+  
+}
+header a {
+  
+  border:1px solid white;
+  background: white;
+  border-radius: 60px;
+  color: black;
+  
+}
+body {
+  
+ background: rgb(93, 193, 185);
+ padding: 18px;
+  
+}
+.Logo {
+  
+  font-size: 30px;
+  
+}
+.header {
+  
+  display: flex;
+  align-items: center;
+  background: gray;
+  justify-content: space-between;
+  width: 90%;
+  position: fixed;
+  z-index: 100;
+  
+}
+.navbar {
+  
+  margin-right: 10px;
+  
+}
+.content-header {
+  
+  justify-content: center;
+  height: 30vh !important;
+  padding-top: 30px;
+  
+}
+.Letras{
+ 
+  text-align: center;
+  align-content: center;
+  margin: 15px auto;
+  
+}
+.numeros {
+  
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  
+}
+.inp {
+  
+  width: 25pc;
+  margin: 5px;
+  
+}
+.multi {
+
+  margin: auto;
+  align-items: center;
+  
+}
+.btn-pdf{
+
+  border: 1px;
+  border-radius: 20px;
+  font-size: 16px;
+
+}
+.pdf {
+
+  color: #000;
+
+}
+
+.niño {
+
+  width: auto;
+  height: 250px;
+
+}
+.SaberMas {
+
+  margin-top: 40px;
+
+}
+.aprender {
+
+  font-size: 36px;
+
+}
+.habilidades {
+
+  font-size: 18px;
+
+}
